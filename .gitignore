@@ -4,3 +4,5 @@
 *.lk
 *.zip
 ~$2020.xlsx
+2020.xlsx
+.gitignore
